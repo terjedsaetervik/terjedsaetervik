@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @terjedsaetervik
-- 👀 I’m interested in REST-api
 - 🌱 I’m currently learning Python Flask SQLite Bootstrap - and Git
 
 <!---
